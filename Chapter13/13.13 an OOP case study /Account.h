@@ -40,21 +40,3 @@ class Account
             { return transactions; }
 };
 #endif
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
