@@ -119,7 +119,8 @@ void withdraw(Account &acnt)
 
 
 /*
-You are a programmer for the Home Software Company. You have been assigned to develop a class that models the basic workings of a bank account. The class should perform the following tasks:
+You are a programmer for the Home Software Company. You have been assigned to develop a class that models the basic workings of a bank account. 
+The class should perform the following tasks:
 • Save the account balance.
 • Save the number of transactions performed on the account.
 • Allow deposits to be made to the account.
