@@ -10,7 +10,7 @@ class Account
         double interest;        //Interest earned for the period
         int transactions;       //Number of transactions
     public:
-        Account (double iRate = 0.045, double bal = 0) //constructor
+        Account (double iRate = 0.045, double bal = 0) //Default constructor
             { balance = bal;
               interestRate = iRate;
               interest = 0;
