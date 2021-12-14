@@ -17,5 +17,12 @@ int main()
     //Display the values in the list
     list.dsplayList();
 
+    //Delete the middle node
+    cout << "Now deleting the node in the middle\n";
+    list.deleteNode(7.9);
+
+    //Display the list
+    list.dsplayList();
+
     return 0;
 }
